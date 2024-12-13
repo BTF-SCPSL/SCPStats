@@ -1,12 +1,10 @@
 # KillCounter-ScpSl
-![downloads](https://img.shields.io/github/downloads/Waltuhs/KillCounter-ScpSl/total?logo=github&style=for-the-badge)
-![ver](https://img.shields.io/github/v/release/Waltuhs/KillCounter-ScpSl?include_prereleases&logo=github&style=for-the-badge)
-[![disc](https://img.shields.io/discord/1235681501849321482?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/MQAcPFJRkR)
+![downloads](https://img.shields.io/github/downloads/BTF-SCPSL/SCPStats/total?logo=github&style=for-the-badge)
+![ver](https://img.shields.io/github/v/release/BTF-SCPSL/SCPStats?include_prereleases&logo=github&style=for-the-badge)
 
 i will update this plugin on the release of 14.0 to fix any and all issues, if u have any issues right now dm walter.jr. on discord and say it yk 
 
 ### this plugin uses a variety of different ways of tracking and displaying kills!  here are a few noteable features of this plugin
-https://discord.com/channels/656673194693885975/695423213185794059/1250596984419651594 upvote in submissions fr
 | |  |
 | --- | --- |
 | .kd | .kd is a client command that displays the senders kill to death ratio, kills, kills as scp, scps killed and deaths! |
