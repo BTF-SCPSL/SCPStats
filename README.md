@@ -1,4 +1,4 @@
-# KillCounter-ScpSl
+# SCPStats
 ![downloads](https://img.shields.io/github/downloads/BTF-SCPSL/SCPStats/total?logo=github&style=for-the-badge)
 ![ver](https://img.shields.io/github/v/release/BTF-SCPSL/SCPStats?include_prereleases&logo=github&style=for-the-badge)
 
